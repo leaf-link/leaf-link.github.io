@@ -6229,7 +6229,7 @@ a.navbar-link:hover {
 }
 
 .navbar-item img {
-    max-height: 1.75rem
+    /*max-height: 1.75rem*/
 }
 
 .navbar-item.has-dropdown {
@@ -9543,9 +9543,9 @@ screen and (min-width:769px) {
 }
 
 .logo-svg {
-    fill: #fff;
-    width: 5rem;
-    height: 5rem
+    height: 80px;
+    width: 80px;
+    max-height: 5rem;
 }
 
 .logo-text {
